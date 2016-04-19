@@ -1,4 +1,4 @@
-name: ocrticonsulting
+name: OCRTI
 favicon: null
 layout_spectrum: 0.551058052573353
 typography_spectrum: 0.548637650674209
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#ffffff'
+    - '#747579'
+    - '#77a3c9'
+    - '#222021'
+    - '#b0d4ee'
   brandStrength: 0.9461946045048535
   lightness: 0.8169162713456899
   saturation: 0.14381971559487283
