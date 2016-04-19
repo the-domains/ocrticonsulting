@@ -1,0 +1,28 @@
+name: ocrticonsulting
+favicon: null
+layout_spectrum: 0.551058052573353
+typography_spectrum: 0.548637650674209
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9461946045048535
+  lightness: 0.8169162713456899
+  saturation: 0.14381971559487283
+  rhythmicContrast: 0.19274001521989703
+purpose: []
